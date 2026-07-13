@@ -17,6 +17,9 @@ Kristen's app: https://gcs-2026-intern-project.vercel.app
 
 ### Week of July 13th
 
+[@xamatic](https://github.com/xamatic)
+
+
 ### Week of July 20th
 
 ### Week of July 27th
