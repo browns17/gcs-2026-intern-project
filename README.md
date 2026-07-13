@@ -17,6 +17,7 @@ Kristen's app: https://gcs-2026-intern-project.vercel.app
 
 ### Week of July 13th - Xander [@Xamatic](https://github.com/xamatic)
 
+Xander's app: https://xander-gcs-todo.vercel.app/
 
 ### Week of July 20th
 
