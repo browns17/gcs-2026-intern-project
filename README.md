@@ -21,6 +21,8 @@ Xander's app: https://xander-gcs-todo.vercel.app/
 
 ### Week of July 20th
 
+
+
 ### Week of July 27th
 
 ### Week of August 3rd
