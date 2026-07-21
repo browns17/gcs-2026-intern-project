@@ -19,7 +19,7 @@ Kristen's app: https://gcs-2026-intern-project.vercel.app
 
 Xander's app: https://xander-gcs-todo.vercel.app/
 
-### Week of July 20th
+### Week of July 20th - Christian [@islerChris](https://github.com/islerChris) & Micah [@JstAvrg](https://github.com/JstAvrg)
 Christian's app: https://voluble-malabi-0c1582.netlify.app/
 
 Micah's app: https://sage-cannoli-da18fa.netlify.app
